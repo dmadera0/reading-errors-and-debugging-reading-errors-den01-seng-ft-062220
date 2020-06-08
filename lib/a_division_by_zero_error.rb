@@ -3,4 +3,4 @@
 42 / 0
 
 def ZeroDivisionError
-  put
+  load 
