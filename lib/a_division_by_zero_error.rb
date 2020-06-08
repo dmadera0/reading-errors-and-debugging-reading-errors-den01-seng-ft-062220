@@ -3,4 +3,5 @@
 42 / 0
 
 def ZeroDivisionError
-  load 
+  load './lib/a_division_by_zero_error.rb'
+  
